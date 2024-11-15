@@ -2,7 +2,7 @@
 This is a sample repository / app for the Git course.
 
 ## GUIs
- * This change made by VSCode
+ * This change made by VSCode test
 
 ## How To Work With Git
 1. git checkout main
