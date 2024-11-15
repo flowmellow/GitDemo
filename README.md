@@ -1,6 +1,10 @@
 # Git Demo Repo
 This is a sample repository / app for the Git course.
 
+## GUIs
+ * This change made by VSCode test
+ * This change made by Visual Studio 2022 Community Edition
+
 ## How To Work With Git
 1. git checkout main
 2. git pull
